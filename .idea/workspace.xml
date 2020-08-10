@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c997cb86-a379-4642-8de5-4c59cf49f015" name="Default" comment="" />
+    <list default="true" id="c997cb86-a379-4642-8de5-4c59cf49f015" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,11 +59,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="722" />
-  </component>
+  <component name="ProjectId" id="1fp3LRf1G2DcH0JaKUADZHymCcN" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -81,11 +79,21 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jiteshmohite/projects/2017-2018/automation/Python-Automation-Framework/webdriver/webdriver.py" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -187,10 +195,10 @@
     </configuration>
     <list>
       <item itemvalue="Python.webdriver" />
-      <item itemvalue="Python tests.Nosetests in chrome_tests.py" />
-      <item itemvalue="Python tests.Nosetests in appium_tests.py" />
-      <item itemvalue="Python tests.Nosetests in Test.py" />
       <item itemvalue="Python tests.Nosetests for test.functional.pageobjectmodel.Test.LoginTest.test_view_pager" />
+      <item itemvalue="Python tests.Nosetests in Test.py" />
+      <item itemvalue="Python tests.Nosetests in appium_tests.py" />
+      <item itemvalue="Python tests.Nosetests in chrome_tests.py" />
     </list>
     <recent_temporary>
       <list>
@@ -247,11 +255,14 @@
       <configuration name="Nosetests in Test.py" configurationId="tests" />
     </history-entry>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="284" y="-890" key="SettingsEditor" timestamp="1596890129959">
+    <state x="284" y="-890" key="SettingsEditor" timestamp="1596901205119">
       <screen x="-185" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="284" y="-890" key="SettingsEditor/0.23.1440.789/-185.-1057.1920.1057@-185.-1057.1920.1057" timestamp="1596890129959" />
+    <state x="284" y="-890" key="SettingsEditor/0.23.1440.789/-185.-1057.1920.1057@-185.-1057.1920.1057" timestamp="1596901205119" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
